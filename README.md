@@ -9,7 +9,7 @@ Please note:  the 2010's decade is incomplete, by virtue of this decade being on
 ssa_births_by_decade.csv 
 Description:  birth numbers by gender for decades 1880 - 2010
 Columns are:
-  decade
+	decade
   m_births (number of males born in this decade)
   f_births (number of females born in this decade)
 
